@@ -72,5 +72,5 @@ if __name__=='__main__':
     with open('day_04/data.txt') as f:
         data = f.read().split('\n')
 
-    print(part_1(data))
-    print(part_2(data))
+    print(part_1(data)) # 1553
+    print(part_2(data)) # 8442
