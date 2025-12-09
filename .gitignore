@@ -132,3 +132,7 @@ dmypy.json
 
 # Code stuff
 .vscode
+
+# Advent of Code input data (not allowed to be shared)
+data.txt
+input.txt
